@@ -29,6 +29,7 @@ public class LoginTest extends TestBase {
         Thread.sleep(5000);
         page.submit();
         page.varifyLoginPage();
+        System.out.println("hi");
     }
 
     @Test
