@@ -1,0 +1,12 @@
+<suite name = "BankAPPlication">
+    <test name = "Test1">
+
+
+        <classes>
+
+         <class name="TestClass.LoginTest"></class>
+
+        </classes>
+    </test>
+
+</suite>
